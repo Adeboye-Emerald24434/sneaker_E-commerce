@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "company": "SNEAKER COMPANY",
+    "name": "Fall Limited Edition Sneakers",
+    "description": "These Low Profile Sneakers are your perfect casual wear Companion. Featuring a durable rubber outer sole. they'll withstand everything the weather can offer.",
+    "price": 125,
+    "discount": 50,
+    "oldPrice": 250,
+    "category": "all",
+    "images": [
+      {"large": "img/image-product-1.jpg", "thumbnail": "img/image-product-1-thumbnail.jpg"},
+      {"large": "img/image-product-2.jpg", "thumbnail": "img/image-product-2-thumbnail.jpg"},
+      {"large": "img/image-product-3.jpg", "thumbnail": "img/image-product-3-thumbnail.jpg"},
+      {"large": "img/image-product-4.jpg", "thumbnail": "img/image-product-4-thumbnail.jpg"}
+    ]
+  },
+  {"id": 2, "name": "Classic Men's Sneaker", "price": 110, "category": "men", "image": "img/men 2.jfif"},
+  {"id": 3, "name": "Sport Men's Sneaker", "price": 135, "category": "men", "image": "img/men 3.jfif"},
+  {"id": 4, "name": "Casual Men's Sneaker", "price": 120, "category": "men", "image": "img/men 4.jfif"},
+  {"id": 5, "name": "Urban Women's Sneaker", "price": 120, "category": "women", "image": "img/women.jfif"},
+  {"id": 6, "name": "Premium Women's Sneaker", "price": 145, "category": "women", "image": "img/women 2.jfif"},
+  {"id": 7, "name": "Street Women's Sneaker", "price": 130, "category": "women", "image": "img/women 3.jfif"},
+  {"id": 8, "name": "Everyday Women's Sneaker", "price": 115, "category": "women", "image": "img/women 4.jfif"},
+  {"id": 9, "name": "Limited Unisex Sneaker", "price": 140, "category": "unisex", "image": "img/unisex.jfif"},
+  {"id": 10, "name": "Modern Unisex Sneaker", "price": 125, "category": "unisex", "image": "img/unisex 1.jfif"},
+  {"id": 11, "name": "Classic Unisex Sneaker", "price": 130, "category": "unisex", "image": "img/unisex 3.jfif"},
+  {"id": 12, "name": "New Collection Sneaker", "price": 150, "category": "unisex", "image": "img/unisex 4.jfif"},
+  {"id": 13, "name": "Signature Men's Sneaker", "price": 125, "category": "men", "image": "img/men.jfif"}
+]
